@@ -1,6 +1,5 @@
-# Unit One - Python Review
-Welcome to the Data Visualization unit of our Machine Learning course!
-This unit introduces you to fundamental maths used to create model from sets of data.
+# Unit Two - Algebra For Machine Learning
+This unit introduces you to fundamental math used to create model from sets of data.
 It also explores tools that helps you visualize data.
 ## Topics Covered
 
